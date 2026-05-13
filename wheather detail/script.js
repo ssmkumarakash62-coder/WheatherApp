@@ -1,4 +1,4 @@
-const apiKey = "ed84b226a7b0e688782e546169d336ad"; // Apni API key yahan dalein
+const apiKey = "4a5437758c80b3088ed7011bdd436420"; // Apni API key yahan dalein
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 const searchBox = document.querySelector(".search input");
